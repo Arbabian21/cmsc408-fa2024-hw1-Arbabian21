@@ -3,9 +3,7 @@ title: "Sample Mermaid Diagram in Quarto"
 author: ChatGPT-4o with mods
 ---
 
-
 This QMD file will render a simple Mermaid flowchart when compiled with Quarto. You can experiment by modifying the Mermaid diagram to include different shapes, arrows, and labels to suit your needs.
-
 
 # Experimenting with Mermaid Diagrams
 
@@ -22,7 +20,6 @@ graph LR;
 
 # Explanation
 
-- **YAML Front Matter**: The front matter at the top (`---` section) specifies the document's metadata, such as the title and output format. In this case, it's set to `html` format.
+-   **YAML Front Matter**: The front matter at the top (`---` section) specifies the document's metadata, such as the title and output format. In this case, it's set to `html` format.
 
-- **Mermaid Diagram**: The Mermaid diagram is included within a code block labeled `mermaid`. The diagram itself is a flowchart with nodes and directed edges.
-
+-   **Mermaid Diagram**: The Mermaid diagram is included within a code block labeled `mermaid`. The diagram itself is a flowchart with nodes and directed edges.
