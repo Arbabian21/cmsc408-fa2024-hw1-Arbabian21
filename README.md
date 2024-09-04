@@ -1,16 +1,24 @@
 # Homework 1 - Open Source Data Engineering Tools
 
-This homework serves two purposes:
+## Overview
 
-1. provide the student an opportunity to learn more about data engineering tools of their interest,
+This report is a comprehensive exploration of the **Open Source Data Engineering Landscape 2024**. It provides an overview of the major categories of open-source data engineering tools, such as **Storage Systems**, **Data Integration**, **Analytics and Visualization**, and more. Additionally, the report includes detailed descriptions of three specific categories of tools that are particularly interesting: **Data Processing and Computation**, **ML/AI Platforms**, and **Analytics and Visualization**.
 
-2. introduce the student to the workflow used to submit assignments in this class.
+The goal of the report is to familiarize you with the vast ecosystem of data engineering tools while providing insights into their unique characteristics, usage, and examples of open-source projects. The report also reflects on the importance of these tools in modern businesses and how they differ from traditional relational OLTP databases. You’ll see why each tool category plays a crucial role in data-driven decision-making and operational efficiency.
 
-[Here is a link](https://virginiacommonwealth.instructure.com/courses/105097/assignments/966515) to the homework assignment in Canvas.
+## Rendering Quarto Files
 
-Your report should be stored in the ``./report`` folder.  Any assets (PNG, JPG, etc.) should be stored underneath in ``./report/assets``.
+Quarto is a powerful tool that allows you to render `.qmd` files (Quarto Markdown) into various formats like HTML, PDF, or even Word documents. This report is built using Quarto, and to complete your assignment, you'll need to render the final output to HTML.
 
-FURTHER, you must modify this README to make it your own:
+### Steps to Render the Quarto File:
+
+1. Open the command line or terminal.
+2. Navigate to the `SRC` folder where your `report.qmd` file is located.
+3. Run the following command to render the `.qmd` file into an HTML document:
+
+   ```bash
+   quarto render report.qmd --to html
+
 
 * GITHUB provides [good explanations of README.md'(https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) files,
 
@@ -27,3 +35,5 @@ be created in the same *./src* folder.
 
 *./docs* - contains resulting files from quarto render operations.  *You should NEVER directly store files in ./docs.* Rather, you should let Quarto maintain the contents of the *./docs* folder using settings in the quarto project file, *_quarto.yml*.
 
+## Confusion
+The instructions said two different things. One to place the report in report and assets in the assets. The other said to keep it in src. I will be doing both.
