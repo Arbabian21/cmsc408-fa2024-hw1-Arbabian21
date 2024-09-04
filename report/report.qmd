@@ -9,6 +9,7 @@ format:
         html-math-method: katex
         theme: spacelab
         toc: true
+        toc-depth: 2
 
 ## Useful references:
 
@@ -20,6 +21,25 @@ format:
 #   (RTFM and GET THE EXTENSION!!!!)
 
 ---
+
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Open Source Data Engineering Tools](#open-source-data-engineering-tools)
+   1. [Storage Systems](#storage-systems)
+   2. [Data Lake Platform](#data-lake-platform)
+   3. [Data Integration](#data-integration)
+   4. [Data Processing and Computation](#data-processing-and-computation)
+   5. [Workflow and DataOps](#workflow-and-dataops)
+   6. [Data Infrastructure and Monitoring](#data-infrastructure-and-monitoring)
+   7. [ML/AI Platform](#mlai-platform)
+   8. [Metadata Management](#metadata-management)
+   9. [Analytics and Visualization](#analytics-and-visualization)
+3. [Digging into the Details](#digging-into-the-details)
+   1. [Data Processing and Computation](#data-processing-and-computation-1)
+   2. [ML/AI Platform](#mlai-platform-1)
+   3. [Analytics and Visualization](#analytics-and-visualization-1)
+4. [Reflection](#reflection)
 
 The purpose of this report is to look through the open source data engineering landscape today, focus on different categories of tools that support modern data platforms and workflows. The report will go over 9 larger categories and 3 specific subcategories i found interesting. I'll end it with a reflection of the assignment.
 

@@ -1,4 +1,13 @@
+![Demo GIF](https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif)
+
+[via GIPHY](https://giphy.com/gifs/animated-gif-animation-sRFEa8lbeC7zbcIZZR)
+
 # Homework 1 - Open Source Data Engineering Tools
+
+![Quarto version](https://img.shields.io/badge/Quarto-v1.2-blue)
+![VSCode version](https://img.shields.io/badge/VSCode-v1.62-blue)
+![Git version](https://img.shields.io/badge/Git-v2.33.0-blue)
+![GitHub CLI version](https://img.shields.io/badge/GitHub%20CLI-v2.7.0-blue)
 
 ## Overview
 
