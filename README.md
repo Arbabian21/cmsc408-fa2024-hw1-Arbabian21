@@ -1,4 +1,4 @@
-![Demo GIF](https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif)
+![](https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif)
 
 [via GIPHY](https://giphy.com/gifs/animated-gif-animation-sRFEa8lbeC7zbcIZZR)
 
